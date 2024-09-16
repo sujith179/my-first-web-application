@@ -1,0 +1,24 @@
+body{background-color: azure;}
+
+
+
+h1{
+    color: blue;
+}
+p{color: rgb(56, 156, 93);}
+
+table{
+    border:coral;
+    border-collapse:collapse;
+    background-color: aqua;
+    color: white;
+}
+
+th,td{
+    text-align: center;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+}
+
+caption{color: black;}
